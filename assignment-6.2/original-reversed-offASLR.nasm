@@ -1,6 +1,6 @@
 ; Filename: offASLR.nasm
 ; Author:   boku
-; Purpose:  Polymorphic version of Jean Pascal Pereiras
+; Purpose:  Reverse Engineered NASM version of Jean Pascal Pereiras
 ;  Linux x86 ASLR deactivation - 83 bytes
 ; Original: http://shell-storm.org/shellcode/files/shellcode-813.php
 global _start
