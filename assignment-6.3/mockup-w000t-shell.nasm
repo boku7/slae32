@@ -1,3 +1,6 @@
+; Author: boku
+; Reverse Engineered NASM Version of w000t-shell.c
+; Original at: http://shell-storm.org/shellcode/files/shellcode-543.php
 global _start
 section .text
 _start:
